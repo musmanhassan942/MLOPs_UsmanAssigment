@@ -72,7 +72,7 @@ curl -X POST "http://localhost:8000/predict" -H "Content-Type: application/json"
 
 
 📸 Screenshots of API Responses
-Screenshots demonstrating the API responses for the above cURL commands have been saved in the screenshots/ directory of this repository...
+Screenshots demonstrating the API responses for the above cURL commands have been saved in the screenshots/ directory of this repository
 
 !\\\[alt text](/Screenshot/test1.PNG)
 
